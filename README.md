@@ -8,6 +8,6 @@
   torchvision 0.16.0  
 
 ## Execution
-'''
+```
 python cifar100_resnet_training.py
-'''
+```
