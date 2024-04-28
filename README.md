@@ -1,1 +1,8 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/9e_U2VEe)
+##ENV：
+    WIN11 13700+4070Ti
+    CUDA 12.1
+
+    Python library：
+    wandb 0.16.6
+    pytorch 2.1.0+cu121
+    torchvision 0.16.0
